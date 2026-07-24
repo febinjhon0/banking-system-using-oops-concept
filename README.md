@@ -191,7 +191,6 @@ This project helps understand:
 ## 👨‍💻 Author
 
 **Febin K S**
-
 - MCA Graduate
 - Passionate about Python, Django, and Software Development
 
