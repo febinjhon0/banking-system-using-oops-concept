@@ -192,7 +192,6 @@ This project helps understand:
 
 **Febin K S**
 
-- Python Developer
 - MCA Graduate
 - Passionate about Python, Django, and Software Development
 
